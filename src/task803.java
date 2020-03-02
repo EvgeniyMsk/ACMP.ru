@@ -1,9 +1,8 @@
 import java.util.*;
 import java.io.*;
-import org.junit.*;
-public class Main{
+public class task803 {
     public static void main(String[] argv) throws IOException{
-        new Main().run();
+        new task803().run();
     }
 
     PrintWriter pw;
